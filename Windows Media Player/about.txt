@@ -1,0 +1,2 @@
+Deprecated app Windows Media Player. This was used in like Windows Vista. I mean, the style.
+It was replaced by Media Player in Windows 11
