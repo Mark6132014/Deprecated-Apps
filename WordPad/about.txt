@@ -1,0 +1,2 @@
+WordPad. Where all old documents are made.
+WordPad was removed in Windows 11 24H2
