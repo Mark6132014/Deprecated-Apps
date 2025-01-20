@@ -1,0 +1,3 @@
+Just 1 exe file.
+Some features may not work.
+You can put this in your System32 Folder!
